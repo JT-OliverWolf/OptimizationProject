@@ -10,4 +10,4 @@ The goals of this project is to formulate a minimization problem to minimize the
 
 This project is implemented using Julia and JuMP. 
 
-The result are in the report file.
+The result are in the report file, and the implemented code are in the appendix of the report.
