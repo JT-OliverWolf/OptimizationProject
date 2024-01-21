@@ -1,6 +1,8 @@
 # OptimizationProject
 
-This project is part of TMA947 Nonlinear Optimization course at Chalmers University of Technology
+This project is a group project, it's a part of TMA947 Nonlinear Optimization course at Chalmers University of Technology
+
+My role in this project is to formulate a problem, implement a code to solve the problem and oversee the report.
 
 The instructor gave us a data of the 14 plannable powerplants in Sweden and consumer demands.
 
