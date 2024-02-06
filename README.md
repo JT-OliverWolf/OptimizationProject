@@ -1,6 +1,6 @@
 # OptimizationProject
 
-This project is a group project, it's a part of the TMA947 Nonlinear Optimization course at Chalmers University of Technology.
+This project is a group project, it's a part of the Nonlinear Optimization course at Chalmers University of Technology.
 
 My role in this project is to formulate a problem into a mathematical formulation, implement a code to solve the problem, and oversee the report.
 
